@@ -16,5 +16,22 @@
     "lnk_industries": [
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_1_a.png", 
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00000_3_a.png"
+    ],
+    "icn_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_14_a.png"
+    ], 
+    "img_robot_main": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_21_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_10_div.png"
+    ], 
+    "lnk_contact": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_28_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_23_div.png"
+    ], 
+    "lnk_footer_about_us": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00004_18_a.png"
+    ], 
+    "lnk_footer_events": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00004_23_a.png"
     ]
 }

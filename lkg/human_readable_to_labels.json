@@ -29,6 +29,27 @@
         ], 
         "a_856_1172_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f": [
             "lnk_gaming"
+        ],
+        "a_1585_64_61_35_a_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21": [
+            "lnk_contact"
+        ], 
+        "a_77_58_208_47_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264": [
+            "icn_home"
+        ], 
+        "a_977_779_70_25_a_000000000000000000005000d060dfefffceefefefcdbfefbfef00000000ffff_974295c75fcf6735b522754ed15efcb9": [
+            "lnk_footer_about_us"
+        ], 
+        "a_977_826_53_25_a_00000000000000004000e0088008977ffffedffa9e7bcbffeb6f00000000ffff_69dda815447caacef8c90a629baf382d": [
+            "lnk_footer_events"
+        ], 
+        "div_1199_226_478_445_div_007e03ee03fe007e006e3ffe3ffe3ffc3ffc0ffc0ffc07fc0ffc01c001800000_78177f4c72044dc34e29d0087f872316": [
+            "img_robot_main"
+        ], 
+        "div_1216_226_444_428_div_007f03ef03ff007f00677fff7fff7ffe7ffe0ffe0ffe00460ffe0ffe00800180_78177f4c72044dc34e29d0087f872316": [
+            "img_robot_main"
+        ], 
+        "div_1585_64_61_35_div_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21": [
+            "lnk_contact"
         ]
     }, 
     "screens": {}
