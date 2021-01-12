@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00009_17_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00009_25_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00012_10_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00012_14_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00012_21_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00012_23_div.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00012_28_a.png": [
+            "lnk_contact"
+        ]
+    }, 
+    "screens": {}
+}

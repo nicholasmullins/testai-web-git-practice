@@ -1,0 +1,781 @@
+{
+    "20210111153008_www_test_ai": {
+        "pass": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758", 
+                "created": "2021-01-12 10:49:30", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 7, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:lnk_contact", 
+                    "step:2sub_step:0  found:lnk_footer_about_us", 
+                    "step:5sub_step:0  found:lnk_footer_events", 
+                    "step:6sub_step:0  found:icn_home", 
+                    "step:7sub_step:0  found:img_robot_main"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tmpZ/div_X1585_Y64_W61_H35.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "3vXYyb0JdfPrV1ojKk5J3w==\n", 
+                                "height": 35, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1585_Y64_W61_H35", 
+                                "human_readable": "div_1585_64_61_35_div_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21", 
+                                "img_hash": "831ddf0be28c42f81097e6c73fcc9d42", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-item header-nav-item--collection"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-item header-nav-item--collection", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "Contact", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 61, 
+                                        "x": 1585, 
+                                        "xPercent": 82.52848307291667, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1585, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 61
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "Contact"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "Contact", 
+                                "text_hash": "b714deb09c1929d942d8ec24a646cc21", 
+                                "transformed": true, 
+                                "width": 61, 
+                                "x": 1585, 
+                                "y": 64
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_contact"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "lnk_contact"
+                        ], 
+                        "timing": 3.9207489490509033
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [], 
+                        "timing": 2.1175739765167236
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tmpZ/a_X977_Y779_W70_H25.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "XtkE6Z6QJCsX3I1VsSBQew==\n", 
+                                "height": 25, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X977_Y779_W70_H25", 
+                                "human_readable": "a_977_779_70_25_a_000000000000000000005000d060dfefffceefefefcdbfefbfef00000000ffff_974295c75fcf6735b522754ed15efcb9", 
+                                "img_hash": "b01e9bea4bf4662714989b8f0ec8f6c9", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/about-us"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 15, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "About us", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 70, 
+                                        "x": 977, 
+                                        "xPercent": 50.88541666666667, 
+                                        "y": 779, 
+                                        "yPercent": 63.174168694241686
+                                    }, 
+                                    "location": {
+                                        "x": 977, 
+                                        "y": 779
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 70
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "About us"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "About us", 
+                                "text_hash": "974295c75fcf6735b522754ed15efcb9", 
+                                "transformed": true, 
+                                "width": 70, 
+                                "x": 977, 
+                                "y": 779
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_footer_about_us"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "lnk_footer_about_us"
+                        ], 
+                        "timing": 1.3826301097869873
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 4.447507858276367
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [], 
+                        "timing": 2.793531894683838
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tmpZ/a_X977_Y826_W53_H25.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "kYxrXEhubPoiKVICoCRQvw==\n", 
+                                "height": 25, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X977_Y826_W53_H25", 
+                                "human_readable": "a_977_826_53_25_a_00000000000000004000e0088008977ffffedffa9e7bcbffeb6f00000000ffff_69dda815447caacef8c90a629baf382d", 
+                                "img_hash": "14d3eeb0994e84b9a507492b296857be", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/events"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 15, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Events", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 53, 
+                                        "x": 977, 
+                                        "xPercent": 50.88541666666667, 
+                                        "y": 826, 
+                                        "yPercent": 68.13376650165016
+                                    }, 
+                                    "location": {
+                                        "x": 977, 
+                                        "y": 826
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 53
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Events"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Events", 
+                                "text_hash": "69dda815447caacef8c90a629baf382d", 
+                                "transformed": true, 
+                                "width": 53, 
+                                "x": 977, 
+                                "y": 826
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_footer_events"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [
+                            "lnk_footer_events"
+                        ], 
+                        "timing": 2.534024953842163
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tmpZ/a_X77_Y58_W208_H47.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "ug65Txr6IOQTy6nBkaHlig==\n", 
+                                "height": 47, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X77_Y58_W208_H47", 
+                                "human_readable": "a_77_58_208_47_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "72dc098dc92030f280f30fb51bc6b634", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0111111s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 10, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 0, 
+                                        "height": 47, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 77, 
+                                        "xPercent": 3.9998372395833335, 
+                                        "y": 58, 
+                                        "yPercent": 2.0151766969909026
+                                    }, 
+                                    "location": {
+                                        "x": 77, 
+                                        "y": 58
+                                    }, 
+                                    "size": {
+                                        "height": 47, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 208, 
+                                "x": 77, 
+                                "y": 58
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "icn_home"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [
+                            "icn_home"
+                        ], 
+                        "timing": 2.8173820972442627
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tmpZ/div_X1216_Y226_W444_H428.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "MpZw/3FbXhxC2TegQGlKow==\n", 
+                                "height": 428, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1216_Y226_W444_H428", 
+                                "human_readable": "div_1216_226_444_428_div_007f03ef03ff007f00677fff7fff7ffe7ffe0ffe0ffe00460ffe0ffe00800180_78177f4c72044dc34e29d0087f872316", 
+                                "img_hash": "c774039235c29f909d373d2550a3abf5", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+                                            "data-animation-role": "image", 
+                                            "id": "yui_3_17_2_1_1610473755644_145", 
+                                            "style": "padding-bottom: 96.4286%; overflow: hidden; transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.140426s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "image-block-wrapper has-aspect-ratio preSlide slideIn", 
+                                        "domLevel": 17, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 428, 
+                                        "identifier": "yui_3_17_2_1_1610473755644_145", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 444, 
+                                        "x": 1216, 
+                                        "xPercent": 63.331705729166664, 
+                                        "y": 226, 
+                                        "yPercent": 3.5053038545228477
+                                    }, 
+                                    "location": {
+                                        "x": 1216, 
+                                        "y": 226
+                                    }, 
+                                    "size": {
+                                        "height": 428, 
+                                        "width": 444
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "<img src=\"https://images.squarespace-cdn.com/content/v1/5fa3332deadd8878ac4cb2cd/1605553649485-L5BV31S6MA8FZ8WRPU5F/ke17ZwdGBToddI8pDm48kEzs2SrS3EXhkyYDaY7GxEVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIrnHrwWbcPL09OH6fNU7QgogOtleCRQoX5ZUiKnwAvkg/person+and+robot+screens\" alt=\"person and robot screens\" />", 
+                                "text_hash": "78177f4c72044dc34e29d0087f872316", 
+                                "transformed": true, 
+                                "width": 444, 
+                                "x": 1216, 
+                                "y": 226
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "img_robot_main"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [
+                            "img_robot_main"
+                        ], 
+                        "timing": 1.5813369750976562
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112104758/tests/result_paths/Footer/iter_00000_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "timing": 1.593276023864746
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_contact"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_footer_about_us"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "About Us", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_footer_events"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_home"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "img_robot_main"
+                        ], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [], 
+                "temp_id": "a0f3781c-54fc-11eb-acd1-787b8ade0f4b", 
+                "title": "Footer", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}
