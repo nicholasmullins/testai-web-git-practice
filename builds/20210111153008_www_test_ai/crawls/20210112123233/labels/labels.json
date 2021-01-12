@@ -1,0 +1,65 @@
+{
+    "elems": {
+        "iter_00000_step_00002_45_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00002_46_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00012_26_a.png": [
+            "lnk_sign_up"
+        ], 
+        "iter_00000_step_00017_25_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00017_9_a.png": [
+            "btn_demo_ap"
+        ], 
+        "iter_00000_step_00030_22_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00031_20_a.png": [
+            "lnk_test_ai_two"
+        ], 
+        "iter_00000_step_00031_22_a.png": [
+            "lnk_data_sheet"
+        ], 
+        "iter_00000_step_00031_25_a.png": [
+            "lnk_test_ai_one"
+        ], 
+        "iter_00000_step_00034_10_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00034_13_a.png": [
+            "mi_personal_edition"
+        ], 
+        "iter_00000_step_00034_1_a.png": [
+            "mi_all_products"
+        ], 
+        "iter_00000_step_00034_4_a.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00034_5_div.png": [
+            "mi_personal_edition"
+        ], 
+        "iter_00000_step_00035_0_img.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00035_1_a.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00035_22_a.png": [
+            "lnk_fitness_industry"
+        ], 
+        "iter_00000_step_00035_23_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00035_29_a.png": [
+            "mnu_product"
+        ], 
+        "iter_00000_step_00035_7_a.png": [
+            "lnk_contact"
+        ]
+    }, 
+    "screens": {}
+}
