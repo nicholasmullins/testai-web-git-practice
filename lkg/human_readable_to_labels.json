@@ -1,5 +1,6 @@
 {
     "elems": {
+
         "a_1206_1264_104_50_a_fffffffffffffffffffe1ffebf3fa432a93880308620a020a480ffffffff0000_1a4940225c37283c238042f625b48084": [
             "lnk_test_ai_two"
         ], 
@@ -84,8 +85,17 @@
         "a_977_826_53_25_a_00000000000000004000e0088008977ffffedffa9e7bcbffeb6f00000000ffff_69dda815447caacef8c90a629baf382d": [
             "lnk_footer_events"
         ], 
+        "a_977_891_20_20_a_0000000000007ffe7ffe7ffe7cfe7c3e7c7e7cfe7ffe7ffe7ffe000000000000_9d4568c009d203ab10e33ea9953a0264": [
+            "icn_footer_youtube"
+        ], 
+        "div_1184_209_200_26_div_fffffffffffffffffe71fe71fe00fe00fe00fe00fe00fe00ff88ffeeffeeffff_5ea62442768a6cedc518d4e2d392d6ab": [
+            "mi_privacy_policy"
+        ], 
         "div_1199_226_478_445_div_007e03ee03fe007e006e3ffe3ffe3ffc3ffc0ffc0ffc07fc0ffc01c001800000_78177f4c72044dc34e29d0087f872316": [
             "img_robot_main"
+        ], 
+        "div_1200_64_81_35_div_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314": [
+            "lnk_industries"
         ], 
         "div_1216_226_444_428_div_007f03ef03ff007f00677fff7fff7ffe7ffe0ffe0ffe00460ffe0ffe00800180_78177f4c72044dc34e29d0087f872316": [
             "img_robot_main"
