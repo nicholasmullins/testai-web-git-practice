@@ -1,217 +1,825 @@
 {
+    "Company - 6 / Contact - Email Input / Home": {
+         "description": "", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mnu_company"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mi_privacy_policy"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "String - Privacy Policy in Body", 
+                 "grep": "Privacy Policy", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mnu_company"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mi_website_terms"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "String - Website Terms in Body", 
+                 "grep": "Website Terms", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mnu_company"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mi_service_terms"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "String - Service Terms in Body", 
+                 "grep": "Service Terms", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_contact"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "publicbot@appdiff.com", 
+                 "grep_count": null, 
+                 "input": "text_entry_no_submit", 
+                 "label_count": null, 
+                 "labels": [
+                     "inp_email"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "icn_home"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "company6"
+         ], 
+         "temp_id": "937fe457-551a-11eb-8820-787b8ade0f4b", 
+         "title": "Company - 6 / Contact - Email Input / Home"
+     }, 
+     "Events - 2": {
+         "description": "Go to Events - Swipe Until Eurostar - Tap & Verify Hustef and Agile - Back to Events", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_events"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "Swipe Until the Eurostar Tile", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "swipe_until_tle_eurostar.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_hustef"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "Label - Hustef Logo - img_logo_hustef", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [
+                     "img_logo_hustef"
+                 ], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "switch_to_image_lnk_agile_image.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": true, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "icn_close_agile_modal"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "Label - Agile Schedule - lnk_schedule_agile", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_schedule_agile"
+                 ], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "event2"
+         ], 
+         "temp_id": "dd532cd9-551c-11eb-bc71-787b8ade0f4b", 
+         "title": "Events - 2"
+     },
     "Footer": {
-        "description": "", 
-        "is_deactivated": false, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_contact"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_footer_about_us"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "About Us", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "go_back", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_footer_events"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "icn_home"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "img_robot_main"
-                ], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [], 
-        "temp_id": "a0f3781c-54fc-11eb-acd1-787b8ade0f4b", 
-        "title": "Footer"
-    },
+         "description": "Contact to Footer - About/Events/YouTube/Switch Tab", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_contact"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "swipe_up", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_footer_about_us"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "About Us", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_footer_events"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "Virtual Events", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "icn_footer_youtube"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "Switch to Youtube Tab", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "switch_tab_youtube.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "footer1"
+         ], 
+         "temp_id": "a0f3781c-54fc-11eb-acd1-787b8ade0f4b", 
+         "title": "Footer"
+     },
     "Industries": {
-        "description": "", 
-        "is_deactivated": false, 
-        "steps": [
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_industries"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_fitness_industry"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_gaming"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "script_name": "swipe_until_btn_demo_ap.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_demo_ap"
-                ], 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Talk to us and we'll show you", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "type": "verification", 
-                "widget": "default"
-            }
-        ], 
-        "tags": [
-            "industries"
-        ], 
-        "temp_id": "2b7762b5-54f5-11eb-b205-f01898f25f2e", 
-        "title": "Industries"
-    }
-}
+         "description": "", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_industries"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_fitness_industry"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "switch_tab_fitness_pdf.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "swipe_up", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "swipe_up", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_gaming"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "switch_tab_gaming_pdf.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "swipe_until_btn_demo_ap.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "btn_demo_ap"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "Talk to us and we'll show you", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "industries"
+         ], 
+         "temp_id": "2b7762b5-54f5-11eb-b205-f01898f25f2e", 
+         "title": "Industries"
+     }, 
+     "Product - 1- All Products": {
+         "description": "", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mnu_product"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mi_all_products"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "swipe_up", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "swipe_up", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_sign_up"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "Sign up for early access", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "script_name": "swipe_until_btn_demo_ap.py", 
+                 "type": "execute_script", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "btn_demo_ap"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "Talk to us and we'll show you", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_data_sheet"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "product", 
+             "allproducts"
+         ], 
+         "temp_id": "ec23f002-5515-11eb-b597-f01898f25f2e", 
+         "title": "Product - 1- All Products"
+     }, 
+     "Product - 2 - Personal Edition": {
+         "description": "", 
+         "is_deactivated": false, 
+         "steps": [
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mnu_product"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "mi_personal_edition"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_test_ai_one"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "AI provides the speed that QA teams need", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_test_ai_two"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "AI provides the speed that QA teams need", 
+                 "grep_count": null, 
+                 "input": "", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "verification", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "go_back", 
+                 "label_count": null, 
+                 "labels": [], 
+                 "type": "action", 
+                 "widget": "default"
+             }, 
+             {
+                 "continue_on_failure": false, 
+                 "description": "", 
+                 "grep": "", 
+                 "grep_count": null, 
+                 "input": "tap", 
+                 "label_count": null, 
+                 "labels": [
+                     "lnk_data_sheet"
+                 ], 
+                 "type": "action", 
+                 "widget": "default"
+             }
+         ], 
+         "tags": [
+             "personal", 
+             "product"
+         ], 
+         "temp_id": "850671fd-5517-11eb-9a3f-f01898f25f2e", 
+         "title": "Product - 2 - Personal Edition"
+     }
+ }
+ 
+ 

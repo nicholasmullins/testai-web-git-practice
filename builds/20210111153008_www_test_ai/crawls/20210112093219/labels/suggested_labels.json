@@ -38,6 +38,24 @@
                 "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
             }
         }, 
+        "iter_00000_step_00009_33_a.png": {
+            "lnk_footer_about_us": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.96
+                }, 
+                "score": 0.96, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00000_step_00009_35_a.png": {
+            "lnk_footer_events": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 0.96
+                }, 
+                "score": 0.96, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
         "iter_00001_step_00000_16_div.png": {
             "lnk_industries": {
                 "all_scores": {
@@ -56,6 +74,15 @@
                 "source": "hash_based"
             }
         }, 
+        "iter_00001_step_00000_8_div.png": {
+            "img_robot_main": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
         "iter_00001_step_00001_1_a.png": {
             "lnk_industries": {
                 "all_scores": {
@@ -72,6 +99,24 @@
                 }, 
                 "score": 1.0, 
                 "source": "hash_based"
+            }
+        }, 
+        "iter_00001_step_00001_23_a.png": {
+            "icn_home": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
+            }
+        }, 
+        "iter_00001_step_00001_33_div.png": {
+            "lnk_contact": {
+                "all_scores": {
+                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
             }
         }
     }, 

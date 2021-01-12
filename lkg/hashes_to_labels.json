@@ -1,10 +1,40 @@
 {
     "elems": {
+        "M2I3YWFkNTE4NzY2YjNhMGI2YzNjYjNhMGIyMDg2ZjI=\n": [
+            "lnk_contact"
+        ], 
+        "MDNlMGE3NWRmZmIxYWUwMTVkMzFiZmFiMWJjYzRkYzg=\n": [
+            "mnu_company"
+        ], 
+        "MGExMTg4MzMzNWUzNGQ3YzI0MmE5NGY3NmZjY2MzYWY=\n": [
+            "btn_demo"
+        ], 
+        "MTVhZmI4ZTMyYWI3MTQ1YTFiOTI0OWJhZmVkMmIzMGQ=\n": [
+            "img_logo_hustef"
+        ], 
+        "MWZkMTkzMmVmYTI3MjYyMWIzYTUxMmU3ZTRmMjM0Zjc=\n": [
+            "lnk_footer_events"
+        ], 
+        "MmQ2ZGVhOGE3MDZiM2RkYWMzMzMzZTI1NTVjZDdhYTc=\n": [
+            "img_robot_main"
+        ], 
         "MmY3MDYzM2U4YTcyNjIxMTMyNzU1ZDM0NGJmODI4NzU=\n": [
             "btn_demo_ap"
         ], 
+        "MzdkMTcxNDBkYWYzZTEyN2IzNTIyY2U3NTA0ZGMxNzA=\n": [
+            "img_robot_main"
+        ], 
         "N2FmNDYxZDA5MTQ0YzEzNWNhZGE3Nzg3MjVmZTFjZjc=\n": [
             "lnk_gaming"
+        ], 
+        "NDE3NDM5NGIyZTJjNTUwMDZhM2FlYmE1NzdmZTgxZTU=\n": [
+            "mi_service_terms"
+        ], 
+        "NGRiYjQ2ZWExZWJkNDk1NTdjMTMzOTk0NGE1NGE1ODc=\n": [
+            "mi_privacy_policy"
+        ], 
+        "NTEyNTkyNjdhMDVlODM3OGE0OTZhZTkwZDYxYzcwOTg=\n": [
+            "lnk_events"
         ], 
         "NTU4OWZhNDlhZGIzYzg2MGM2Y2RkNTc2NzBlM2Y5ZjI=\n": [
             "btn_demo_ap"
@@ -15,41 +45,65 @@
         "NmFlNzFiZGRhMmE4MTg1YjE4ZjBkYmQ3MTZlYjUwZjA=\n": [
             "lnk_industries"
         ], 
+        "NmQ4ZmYxOTMwYWExZmYwNWViZjdmYTVjYzdlZmI1NGM=\n": [
+            "lnk_footer_about_us"
+        ], 
+        "ODg0NzA2ZTBhZTkxZDYyM2Y5NTUzNzA1MzEzZGQ4ODk=\n": [
+            "icn_close_agile_modal"
+        ], 
+        "OGRmN2E3ZmEyOGFiNmNjYjczZmM0ZTcyYmVjYTU0YWY=\n": [
+            "lnk_contact"
+        ], 
         "OTEyZGVjZDY2YTEwNTNlOTBjMTY2ZjcxYTAwOTVkM2M=\n": [
             "lnk_fitness_industry"
         ], 
         "OTVmOTNhNzVkOGVkNmI3ZTczMTE3MTMxYmFjMDFiN2U=\n": [
             "lnk_fitness_industry"
         ], 
+        "OTcxMTZmNzU1MTRhNmE5ZDc4MjU3MWVhN2MxNDVjZDc=\n": [
+            "mnu_company"
+        ], 
         "OWI5MjY0NGFmNzg3OWU1MDdkYjk1NWNmYjhhNzA0N2Q=\n": [
             "lnk_industries"
+        ], 
+        "OWZhM2UxNzVkMWE3ZGNlZTcyMDdiOGZmMjc0NjMxMTg=\n": [
+            "icn_footer_youtube"
+        ], 
+        "Y2MyZmEwMDI3MGMyOGExOTFiYzVjYmFiNzBiMmJkN2Q=\n": [
+            "inp_email"
         ], 
         "YjkwMDI3MWFkM2U1MDhiMTQ3MTUzZTRhYTRhZWEyOWI=\n": [
             "lnk_gaming"
         ], 
-        "ZTY0ZGY0NDZmYzEyZDI1Yzg4YzE1YTM0NWQwYzM0Yzc=\n": [
-            "lnk_gaming"
-        ],
-        "M2I3YWFkNTE4NzY2YjNhMGI2YzNjYjNhMGIyMDg2ZjI=\n": [
-            "lnk_contact"
-        ], 
-        "MWZkMTkzMmVmYTI3MjYyMWIzYTUxMmU3ZTRmMjM0Zjc=\n": [
-            "lnk_footer_events"
-        ], 
-        "MmQ2ZGVhOGE3MDZiM2RkYWMzMzMzZTI1NTVjZDdhYTc=\n": [
-            "img_robot_main"
-        ], 
-        "MzdkMTcxNDBkYWYzZTEyN2IzNTIyY2U3NTA0ZGMxNzA=\n": [
-            "img_robot_main"
-        ], 
-        "NmQ4ZmYxOTMwYWExZmYwNWViZjdmYTVjYzdlZmI1NGM=\n": [
-            "lnk_footer_about_us"
-        ], 
-        "OGRmN2E3ZmEyOGFiNmNjYjczZmM0ZTcyYmVjYTU0YWY=\n": [
-            "lnk_contact"
-        ], 
         "YzEzYjdkMjFhMTFlYmE0MGM2ZjgxNDRjZGE4NjMxZGQ=\n": [
             "icn_home"
+        ], 
+        "ZDExMjIzYmU5ZGZlYTgxOTZkNTU5Y2IxMjgwMGViNmM=\n": [
+            "lnk_industries"
+        ], 
+        "ZGE3NGIzZjY3ZWFiYmJmMDNhYjVmYzFmNzNkNjcyZDg=\n": [
+            "lnk_hustef"
+        ], 
+        "ZGNhMmFmZTQ1ZjBhMTQ0MTliMzk0ZGExNTUyOGYxMTA=\n": [
+            "mi_website_terms"
+        ], 
+        "ZTBlNzYxZDg2YzUwMzBmMWJkY2RjMWFjZjRkMmJkNTU=\n": [
+            "icn_home"
+        ], 
+        "ZTU0ZDczMDRmZjcyM2ExNTdlZDUzNDM3ZmVlMDI4NjM=\n": [
+            "lnk_schedule_agile"
+        ], 
+        "ZTY0ZGY0NDZmYzEyZDI1Yzg4YzE1YTM0NWQwYzM0Yzc=\n": [
+            "lnk_gaming"
+        ], 
+        "ZTY3MDhhZWI0ZTBmOGE3NzA1YWFhZGFlMTg3OTgzOTE=\n": [
+            "mnu_company"
+        ], 
+        "ZTc5NmQ1Nzg2NDhhNGM2NTEwMWY4OTg4ZTdkNWYwZGQ=\n": [
+            "mi_privacy_policy"
+        ], 
+        "ZWFmMDU4NjFkZjEyNDBhYWUwZTgwYTFjOWFmNTNiNGQ=\n": [
+            "btn_demo"
         ]
     }, 
     "screens": {}

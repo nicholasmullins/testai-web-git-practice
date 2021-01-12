@@ -1,0 +1,80 @@
+{
+    "elems": {
+        "iter_00000_step_00003_17_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00003_25_a.png": [
+            "lnk_footer_events"
+        ], 
+        "iter_00000_step_00003_52_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00015_11_a.png": [
+            "mi_service_terms"
+        ], 
+        "iter_00000_step_00015_12_a.png": [
+            "mi_website_terms"
+        ], 
+        "iter_00000_step_00015_32_div.png": [
+            "mi_privacy_policy"
+        ], 
+        "iter_00000_step_00015_35_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00015_36_a.png": [
+            "mi_privacy_policy"
+        ], 
+        "iter_00000_step_00017_23_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00018_41_label.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00020_10_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00020_1_a.png": [
+            "lnk_events"
+        ], 
+        "iter_00000_step_00020_21_div.png": [
+            "img_robot_main"
+        ], 
+        "iter_00000_step_00022_0_div.png": [
+            "lnk_industries"
+        ], 
+        "iter_00000_step_00022_10_a.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00022_13_div.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00022_17_a.png": [
+            "btn_demo"
+        ], 
+        "iter_00000_step_00022_18_div.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00022_24_a.png": [
+            "mnu_company"
+        ], 
+        "iter_00000_step_00022_27_a.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00022_28_img.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00026_4_img.png": [
+            "img_logo_hustef"
+        ], 
+        "iter_00000_step_00030_8_span.png": [
+            "icn_close_agile_modal"
+        ], 
+        "iter_00000_step_00032_31_a.png": [
+            "lnk_schedule_agile"
+        ], 
+        "iter_00000_step_00033_11_a.png": [
+            "lnk_hustef"
+        ]
+    }, 
+    "screens": {}
+}

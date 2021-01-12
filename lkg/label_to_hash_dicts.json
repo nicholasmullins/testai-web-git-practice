@@ -1,37 +1,79 @@
 {
+    "btn_demo": [
+        "div_1684_59_159_45_div_00000000000000000000000020203ffc3ffc3ffc1ffc0000000000000000ffff_67da42833904ee9acb7c30700659010d", 
+        "a_1684_59_159_45_a_00000000000000000000000020203ffc3ffc3ffc1ffc0000000000000000ffff_67da42833904ee9acb7c30700659010d"
+    ], 
     "btn_demo_ap": [
         "a_1696_1232_416_134_a_00000000000000000000000000003ff83ffc3ffc0d6800000000000000000000_67da42833904ee9acb7c30700659010d", 
         "a_1696_1230_416_134_a_00000000000000000000000000003ff83ffc3ffc0d6800000000000000000000_67da42833904ee9acb7c30700659010d"
+    ], 
+    "icn_close_agile_modal": [
+        "span_1224_31_36_36_span_f00fe007c7e38ff1999918181c381c38181819988ff18ff1c3c3e007f81fffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_footer_youtube": [
+        "a_977_891_20_20_a_0000000000007ffe7ffe7ffe7cfe7c3e7c7e7cfe7ffe7ffe7ffe000000000000_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_home": [
+        "a_77_58_208_47_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264", 
+        "img_77_58_208_47_img_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "img_logo_hustef": [
+        "img_697_247_525_159_img_d805500d53f81b8819865dea45ba619afff8fffd000500070007000ffffffb9f_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "img_robot_main": [
+        "div_1216_226_444_428_div_007f03ef03ff007f00677fff7fff7ffe7ffe0ffe0ffe00460ffe0ffe00800180_78177f4c72044dc34e29d0087f872316", 
+        "div_1199_226_478_445_div_007e03ee03fe007e006e3ffe3ffe3ffc3ffc0ffc0ffc07fc0ffc01c001800000_78177f4c72044dc34e29d0087f872316"
+    ], 
+    "inp_email": [
+        "label_858_422_802_31_label_ffffffffffffffffffff3fff3fff3fff3fff3fff3fff3fffffffffffffffffff_a5803d8f057ad8fea4024da5696915cb"
+    ], 
+    "lnk_contact": [
+        "div_1585_64_61_35_div_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21", 
+        "a_1585_64_61_35_a_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21"
+    ], 
+    "lnk_events": [
+        "a_1413_64_53_35_a_ffffffffffffffffffff1fff1ff7688000012004000014b0ffffffffffffffff_69dda815447caacef8c90a629baf382d"
     ], 
     "lnk_fitness_industry": [
         "a_1938_1338_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc", 
         "a_1938_1652_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc", 
         "a_1938_1642_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc"
     ], 
-    "lnk_gaming": [
-        "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000000ffffefff0000_37bbf05bd5b84f34311e18cae842227f", 
-        "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f", 
-        "a_856_1172_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f"
-    ], 
-    "lnk_industries": [
-        "a_2370_128_162_70_a_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
-        "a_2370_128_162_70_a_ffffffffffffffffffff7fff73bf00000000080000002410ffffffff00000000_35d8a87bf0176ccc43cbc21346620040"
-    ],
-    "icn_home": [
-        "a_77_58_208_47_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264"
-    ], 
-    "img_robot_main": [
-        "div_1216_226_444_428_div_007f03ef03ff007f00677fff7fff7ffe7ffe0ffe0ffe00460ffe0ffe00800180_78177f4c72044dc34e29d0087f872316", 
-        "div_1199_226_478_445_div_007e03ee03fe007e006e3ffe3ffe3ffc3ffc0ffc0ffc07fc0ffc01c001800000_78177f4c72044dc34e29d0087f872316"
-    ], 
-    "lnk_contact": [
-        "div_1585_64_61_35_div_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21", 
-        "a_1585_64_61_35_a_ffffffffffffffffffffbfff1f7e6000600048060000a402ffffffffffffffff_b714deb09c1929d942d8ec24a646cc21"
-    ], 
     "lnk_footer_about_us": [
         "a_977_779_70_25_a_000000000000000000005000d060dfefffceefefefcdbfefbfef00000000ffff_974295c75fcf6735b522754ed15efcb9"
     ], 
     "lnk_footer_events": [
         "a_977_826_53_25_a_00000000000000004000e0088008977ffffedffa9e7bcbffeb6f00000000ffff_69dda815447caacef8c90a629baf382d"
+    ], 
+    "lnk_gaming": [
+        "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000000ffffefff0000_37bbf05bd5b84f34311e18cae842227f", 
+        "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f", 
+        "a_856_1172_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f"
+    ], 
+    "lnk_hustef": [
+        "a_260_193_146_43_a_ffffffffffff7e844800488d49ad08a00aa44a2d422d50a156a3ffffffff0000_baa934c6e2bd54da4de7bccb2b1726ca"
+    ], 
+    "lnk_industries": [
+        "a_2370_128_162_70_a_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
+        "a_2370_128_162_70_a_ffffffffffffffffffff7fff73bf00000000080000002410ffffffff00000000_35d8a87bf0176ccc43cbc21346620040", 
+        "div_1200_64_81_35_div_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314"
+    ], 
+    "lnk_schedule_agile": [
+        "a_0_506_640_106_a_fffffffffffffe7ffe7ffe7ffe7ffe7ffe7ffffffc3ffc3ffc3fffffffffffff_9944fb2e6bab41d3943bfe550bc0f869"
+    ], 
+    "mi_privacy_policy": [
+        "a_1184_209_200_26_a_fffffffffffffffffe71fe71fe00fe00fe00fe00fe00fe00ff88ffeeffeeffff_5ea62442768a6cedc518d4e2d392d6ab", 
+        "div_1184_209_200_26_div_fffffffffffffffffe71fe71fe00fe00fe00fe00fe00fe00ff88ffeeffeeffff_5ea62442768a6cedc518d4e2d392d6ab"
+    ], 
+    "mi_service_terms": [
+        "a_1184_260_200_26_a_fffffffffffffffffef7fef7fe00fe00fe00fe00fe10fe00fe4affffffffffff_08c044a21a9272a0f6491a8b230b8d8d"
+    ], 
+    "mi_website_terms": [
+        "a_1184_235_200_26_a_fffffffffffffffffc57fc57fc00fc00fc00fc00fc00fe00ffffffffffffffff_0fb3df92de174174c06af3184432402d"
+    ], 
+    "mnu_company": [
+        "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000500000002e0cff7dffff00000000_4ad504bf9ac33efca2af3572d5a33188", 
+        "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000500000002e0cff7cffff00000000_4ad504bf9ac33efca2af3572d5a33188", 
+        "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000400000002804ff7cffffffffffff_4ad504bf9ac33efca2af3572d5a33188"
     ]
 }

@@ -1,37 +1,79 @@
 {
+    "btn_demo": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00001_17_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00001_13_div.png"
+    ], 
     "btn_demo_ap": [
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00014_6_a.png", 
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00011_10_a.png"
+    ], 
+    "icn_close_agile_modal": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00029_8_span.png"
+    ], 
+    "icn_footer_youtube": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00003_52_a.png"
+    ], 
+    "icn_home": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_14_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00000_29_img.png"
+    ], 
+    "img_logo_hustef": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00025_4_img.png"
+    ], 
+    "img_robot_main": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_21_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_10_div.png"
+    ], 
+    "inp_email": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00018_41_label.png"
+    ], 
+    "lnk_contact": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_28_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_23_div.png"
+    ], 
+    "lnk_events": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00000_1_a.png"
     ], 
     "lnk_fitness_industry": [
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00017_6_a.png", 
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00016_6_a.png", 
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_22_a.png"
     ], 
-    "lnk_gaming": [
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00010_3_a.png", 
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00015_7_a.png", 
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00008_3_a.png"
-    ], 
-    "lnk_industries": [
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_1_a.png", 
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00000_3_a.png"
-    ],
-    "icn_home": [
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_14_a.png"
-    ], 
-    "img_robot_main": [
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_21_div.png", 
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_10_div.png"
-    ], 
-    "lnk_contact": [
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_28_a.png", 
-        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00000_23_div.png"
-    ], 
     "lnk_footer_about_us": [
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00004_18_a.png"
     ], 
     "lnk_footer_events": [
         "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112103420/elems/iter_00000_step_00004_23_a.png"
+    ], 
+    "lnk_gaming": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00010_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00015_7_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00008_3_a.png"
+    ], 
+    "lnk_hustef": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00023_6_a.png"
+    ], 
+    "lnk_industries": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00000_0_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00000_3_a.png"
+    ], 
+    "lnk_schedule_agile": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00028_31_a.png"
+    ], 
+    "mi_privacy_policy": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00006_35_div.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00006_39_a.png"
+    ], 
+    "mi_service_terms": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00006_14_a.png"
+    ], 
+    "mi_website_terms": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00006_15_a.png"
+    ], 
+    "mnu_company": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00000_27_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00010_36_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112134856/elems/iter_00000_step_00008_24_a.png"
     ]
 }
