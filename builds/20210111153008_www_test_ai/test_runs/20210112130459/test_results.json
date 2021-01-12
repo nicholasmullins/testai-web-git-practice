@@ -1,0 +1,1964 @@
+{
+    "20210111153008_www_test_ai": {
+        "pass": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459", 
+                "created": "2021-01-12 13:08:35", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 13, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:mnu_product", 
+                    "step:1sub_step:0  found:mi_all_products", 
+                    "step:4sub_step:0  found:lnk_sign_up", 
+                    "step:10sub_step:0  found:btn_demo_ap", 
+                    "step:13sub_step:0  found:lnk_data_sheet"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X2188_Y128_W124_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "XLJC23pu73Bd/X9SqX3LJQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2188_Y128_W124_H70", 
+                                "human_readable": "a_2188_128_124_70_a_ffffffffffffffffffff3f3f1f3c40000000248460006a42ffffffffffffffff_c311f0f404c0ef1e46d033f5040d2ae4", 
+                                "img_hash": "4678239c525b3a39112135409fa2ecfc", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-title preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/product-2", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.012766s;", 
+                                            "tabindex": "-1"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-title preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Product", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 62, 
+                                        "x": 1094, 
+                                        "xPercent": 57.42700131233596, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1094, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 62
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Product"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Product", 
+                                "text_hash": "c311f0f404c0ef1e46d033f5040d2ae4", 
+                                "transformed": true, 
+                                "width": 124, 
+                                "x": 2188, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_product"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "mnu_product"
+                        ], 
+                        "timing": 5.886542081832886
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1912_Y214_W400_H52.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "7hEY7sI8m092Fdcd7/inPQ==\n", 
+                                "height": 52, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1912_Y214_W400_H52", 
+                                "human_readable": "a_1912_214_400_52_a_ffffffffffffffffff9bff0bff00ff00ff00ff00ff00ff00ffa0ffffffffffff_203792a40fbd8dc8bcfa23f11d27a7d2", 
+                                "img_hash": "72cee506018caa9ca1d626bda4b82448", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/all-products"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "All Products", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 200, 
+                                        "x": 956, 
+                                        "xPercent": 50.18044619422572, 
+                                        "y": 107, 
+                                        "yPercent": 1.6649829033260801
+                                    }, 
+                                    "location": {
+                                        "x": 956, 
+                                        "y": 107
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 200
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "All Products"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "All Products", 
+                                "text_hash": "203792a40fbd8dc8bcfa23f11d27a7d2", 
+                                "transformed": true, 
+                                "width": 400, 
+                                "x": 1912, 
+                                "y": 214
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mi_all_products"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mi_all_products"
+                        ], 
+                        "timing": 2.9015190601348877
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [], 
+                        "timing": 13.564401865005493
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 4.61524510383606
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1798_Y1854_W212_H52.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "+dEc1tuPL1J/hzs/IAVF9Q==\n", 
+                                "height": 52, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1798_Y1854_W212_H52", 
+                                "human_readable": "a_1798_1854_212_52_a_ffffffffffffffffffff3ccf2ccf44000000040080000400042000000800ffff_9a3575c4008e54c9026a3a9d80c9d8c1", 
+                                "img_hash": "8aeafbc956ed25941bf096899d02adec", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "http://test.ai/product/download"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(44, 38, 200)", 
+                                        "domLevel": 17, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "700", 
+                                        "fontSize": 18, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Sign Up Now", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 106, 
+                                        "x": 899, 
+                                        "xPercent": 47.19816272965879, 
+                                        "y": 927, 
+                                        "yPercent": 20.116255422993493
+                                    }, 
+                                    "location": {
+                                        "x": 899, 
+                                        "y": 927
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 106
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Sign Up Now"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Sign Up Now", 
+                                "text_hash": "9a3575c4008e54c9026a3a9d80c9d8c1", 
+                                "transformed": true, 
+                                "width": 212, 
+                                "x": 1798, 
+                                "y": 1854
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_sign_up"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            "lnk_sign_up"
+                        ], 
+                        "timing": 4.381218910217285
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [], 
+                        "timing": 2.8101749420166016
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [], 
+                        "timing": 3.65733003616333
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1696_Y442_W416_H134.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "CCSBV5qIM9l19WmITifh3w==\n", 
+                                "height": 134, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1696_Y442_W416_H134", 
+                                "human_readable": "a_1696_442_416_134_a_00000000000000000000000030403ffc3ffc3ffc0c0000000000000000000000_67da42833904ee9acb7c30700659010d", 
+                                "img_hash": "c8ef7f5f3e108e54df44974afc645cec", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-block-button-element--large sqs-block-button-element", 
+                                            "data-initialized": "true", 
+                                            "href": "/demo"
+                                        }, 
+                                        "background-color": "rgb(43, 38, 197)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-block-button-element--large sqs-block-button-element", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "700", 
+                                        "fontSize": 17.6, 
+                                        "height": 67, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Request a Demo", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 848, 
+                                        "xPercent": 44.53248031496063, 
+                                        "y": 221, 
+                                        "yPercent": 4.786469631236442
+                                    }, 
+                                    "location": {
+                                        "x": 848, 
+                                        "y": 221
+                                    }, 
+                                    "size": {
+                                        "height": 67, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Request a Demo"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Request a Demo", 
+                                "text_hash": "67da42833904ee9acb7c30700659010d", 
+                                "transformed": true, 
+                                "width": 416, 
+                                "x": 1696, 
+                                "y": 442
+                            }, 
+                            "gesture": "no_op", 
+                            "text": "no_op"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "matched_grep": true, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00009_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00009_screenshot.png", 
+                        "step_num": 9, 
+                        "test_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00010": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1696_Y442_W416_H134.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "CCSBV5qIM9l19WmITifh3w==\n", 
+                                "height": 134, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1696_Y442_W416_H134", 
+                                "human_readable": "a_1696_442_416_134_a_00000000000000000000000030403ffc3ffc3ffc0c0000000000000000000000_67da42833904ee9acb7c30700659010d", 
+                                "img_hash": "c8ef7f5f3e108e54df44974afc645cec", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-block-button-element--large sqs-block-button-element", 
+                                            "data-initialized": "true", 
+                                            "href": "/demo"
+                                        }, 
+                                        "background-color": "rgb(43, 38, 197)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-block-button-element--large sqs-block-button-element", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "700", 
+                                        "fontSize": 17.6, 
+                                        "height": 67, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Request a Demo", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 848, 
+                                        "xPercent": 44.53248031496063, 
+                                        "y": 221, 
+                                        "yPercent": 4.786469631236442
+                                    }, 
+                                    "location": {
+                                        "x": 848, 
+                                        "y": 221
+                                    }, 
+                                    "size": {
+                                        "height": 67, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Request a Demo"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Request a Demo", 
+                                "text_hash": "67da42833904ee9acb7c30700659010d", 
+                                "transformed": true, 
+                                "width": 416, 
+                                "x": 1696, 
+                                "y": 442
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00010_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00010_screenshot.png", 
+                        "step_num": 10, 
+                        "test_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "timing": 2.555853843688965
+                    }, 
+                    "00011": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00011_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00011_screenshot.png", 
+                        "step_num": 11, 
+                        "test_labels": [], 
+                        "timing": 4.532243967056274
+                    }, 
+                    "00012": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00012_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00012_screenshot.png", 
+                        "step_num": 12, 
+                        "test_labels": [], 
+                        "timing": 2.4896199703216553
+                    }, 
+                    "00013": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1526_Y1242_W760_H64.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "n7YwEmCeTcbB+pFMVY/img==\n", 
+                                "height": 64, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1526_Y1242_W760_H64", 
+                                "human_readable": "a_1526_1242_760_64_a_ffffffffffffffffffff7daf77af000000000000001002040000ffffffff0000_69d96b5a53303534ad5dbcce9d389093", 
+                                "img_hash": "62d05706b6bbcd64dcefb86399bbed3e", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_DataSheet_v40.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 22.4, 
+                                        "height": 32, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Download the Test.ai Data Sheet Here", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 380, 
+                                        "x": 763, 
+                                        "xPercent": 40.028707349081365, 
+                                        "y": 621, 
+                                        "yPercent": 13.477494577006507
+                                    }, 
+                                    "location": {
+                                        "x": 763, 
+                                        "y": 621
+                                    }, 
+                                    "size": {
+                                        "height": 32, 
+                                        "width": 380
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Download the Test.ai Data Sheet Here"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Download the Test.ai Data Sheet Here", 
+                                "text_hash": "69d96b5a53303534ad5dbcce9d389093", 
+                                "transformed": true, 
+                                "width": 760, 
+                                "x": 1526, 
+                                "y": 1242
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00013_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00013_screenshot.png", 
+                        "step_num": 13, 
+                        "test_labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "timing": 4.507014036178589
+                    }, 
+                    "00014": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00014_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 1- All Products/iter_00000_step_00014_screenshot.png", 
+                        "step_num": 14, 
+                        "timing": 2.7201008796691895
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_product"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_all_products"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_sign_up"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "tag": "labels: btn_demo_ap, text:  (count = None)", 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "Talk to us and we'll show you", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "product", 
+                    "allproducts"
+                ], 
+                "temp_id": "ec23f002-5515-11eb-b597-f01898f25f2e", 
+                "title": "Product - 1- All Products", 
+                "use_qlearning_matrix": true
+            }, 
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459", 
+                "created": "2021-01-12 13:10:44", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 8, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:mnu_product", 
+                    "step:1sub_step:0  found:mi_personal_edition", 
+                    "step:2sub_step:0  found:lnk_test_ai_one", 
+                    "step:5sub_step:0  found:lnk_test_ai_two", 
+                    "step:8sub_step:0  found:lnk_data_sheet"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X2188_Y128_W124_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "XLJC23pu73Bd/X9SqX3LJQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2188_Y128_W124_H70", 
+                                "human_readable": "a_2188_128_124_70_a_ffffffffffffffffffff3f3f1f3c40000000248460006a42ffffffffffffffff_c311f0f404c0ef1e46d033f5040d2ae4", 
+                                "img_hash": "4678239c525b3a39112135409fa2ecfc", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-title preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/product-2", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.012766s;", 
+                                            "tabindex": "-1"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-title preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Product", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 62, 
+                                        "x": 1094, 
+                                        "xPercent": 57.42700131233596, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1094, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 62
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Product"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Product", 
+                                "text_hash": "c311f0f404c0ef1e46d033f5040d2ae4", 
+                                "transformed": true, 
+                                "width": 124, 
+                                "x": 2188, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_product"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "mnu_product"
+                        ], 
+                        "timing": 6.313616991043091
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/div_X1912_Y266_W400_H52.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "5lPxbG4xtJDWChpqCYJCDA==\n", 
+                                "height": 52, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1912_Y266_W400_H52", 
+                                "human_readable": "div_1912_266_400_52_div_fffffffffffffffff9e3f9e3fc00f800f800fc00fc00fc00ffffffffffffffff_7802ba311df306b7257493ba77189748", 
+                                "img_hash": "49dc18a1a2b98b2f12ff234efea3d33e", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-item"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-item", 
+                                        "domLevel": 13, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "Personal Edition", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 200, 
+                                        "x": 956, 
+                                        "xPercent": 50.18044619422572, 
+                                        "y": 133, 
+                                        "yPercent": 2.0613148896487408
+                                    }, 
+                                    "location": {
+                                        "x": 956, 
+                                        "y": 133
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 200
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "Personal Edition"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "Personal Edition", 
+                                "text_hash": "7802ba311df306b7257493ba77189748", 
+                                "transformed": true, 
+                                "width": 400, 
+                                "x": 1912, 
+                                "y": 266
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mi_personal_edition"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mi_personal_edition"
+                        ], 
+                        "timing": 2.8684639930725098
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1684_Y860_W98_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "r62npQX62mx9bDP7w2sHUA==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1684_Y860_W98_H50", 
+                                "human_readable": "a_1684_860_98_50_a_fffffffffffffffffffeff7e3f3f0032137801700c6000002000ffffffff0000_659c6d91010a9b43f7b10d0cf471243f", 
+                                "img_hash": "6a1dce45d538842100ff341d4ac67489", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "https://www.test.ai/"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "test.ai", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 49, 
+                                        "x": 842, 
+                                        "xPercent": 44.197014435695536, 
+                                        "y": 430, 
+                                        "yPercent": 8.769873624133714
+                                    }, 
+                                    "location": {
+                                        "x": 842, 
+                                        "y": 430
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 49
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "test.ai"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "test.ai", 
+                                "text_hash": "659c6d91010a9b43f7b10d0cf471243f", 
+                                "transformed": true, 
+                                "width": 98, 
+                                "x": 1684, 
+                                "y": 860
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_test_ai_one"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "lnk_test_ai_one"
+                        ], 
+                        "timing": 2.8559300899505615
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 4.556303977966309
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [], 
+                        "timing": 2.8482799530029297
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1206_Y1264_W104_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "ro9wPORkjNL78zS/G08oUw==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1206_Y1264_W104_H50", 
+                                "human_readable": "a_1206_1264_104_50_a_fffffffffffffffffffe1ffebf3fa432a93880308620a020a480ffffffff0000_1a4940225c37283c238042f625b48084", 
+                                "img_hash": "742eb823578ba5b35ce5f54c7da0e599", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "https://www.test.ai/"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Test.ai", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 52, 
+                                        "x": 603, 
+                                        "xPercent": 31.627296587926505, 
+                                        "y": 632, 
+                                        "yPercent": 12.887280880554423
+                                    }, 
+                                    "location": {
+                                        "x": 603, 
+                                        "y": 632
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 52
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Test.ai"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Test.ai", 
+                                "text_hash": "1a4940225c37283c238042f625b48084", 
+                                "transformed": true, 
+                                "width": 104, 
+                                "x": 1206, 
+                                "y": 1264
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_test_ai_two"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [
+                            "lnk_test_ai_two"
+                        ], 
+                        "timing": 3.161054849624634
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [], 
+                        "timing": 4.46939492225647
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00007_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [], 
+                        "timing": 2.8469040393829346
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tmpZ/a_X1206_Y1420_W464_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "j9udZIqpIB/DSK13D9cLNA==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1206_Y1420_W464_H50", 
+                                "human_readable": "a_1206_1420_464_50_a_ffffffffffffffffffff7ddb77db000010800080000800000000ffffffff0000_dd163f0c55966ce2543ff407f9318777", 
+                                "img_hash": "e201adbf26bb88231ccb14663b32f0d4", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_DataSheet_v40.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Here is the Test.ai Data Sheet", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 232, 
+                                        "x": 603, 
+                                        "xPercent": 31.627296587926505, 
+                                        "y": 710, 
+                                        "yPercent": 14.477170811251527
+                                    }, 
+                                    "location": {
+                                        "x": 603, 
+                                        "y": 710
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 232
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Here is the Test.ai Data Sheet"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Here is the Test.ai Data Sheet", 
+                                "text_hash": "dd163f0c55966ce2543ff407f9318777", 
+                                "transformed": true, 
+                                "width": 464, 
+                                "x": 1206, 
+                                "y": 1420
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00008_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "test_labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "timing": 3.293285846710205
+                    }, 
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00001_step_00009_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112130459/tests/result_paths/Product - 2 - Personal Edition/iter_00001_step_00009_screenshot.png", 
+                        "step_num": 9, 
+                        "timing": 2.8134641647338867
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_product"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_personal_edition"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_test_ai_one"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "AI provides the speed that QA teams need", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_test_ai_two"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "AI provides the speed that QA teams need", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_data_sheet"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "personal", 
+                    "product"
+                ], 
+                "temp_id": "850671fd-5517-11eb-9a3f-f01898f25f2e", 
+                "title": "Product - 2 - Personal Edition", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}
