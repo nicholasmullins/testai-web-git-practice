@@ -1,1 +1,20 @@
-{}
+{
+    "btn_demo_ap": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00014_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00011_10_a.png"
+    ], 
+    "lnk_fitness_industry": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00017_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00016_6_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_22_a.png"
+    ], 
+    "lnk_gaming": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00010_3_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00015_7_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00008_3_a.png"
+    ], 
+    "lnk_industries": [
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00002_1_a.png", 
+        "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/crawls/20210112084344/elems/iter_00000_step_00000_3_a.png"
+    ]
+}
