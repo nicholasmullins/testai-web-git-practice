@@ -1,0 +1,365 @@
+{
+    "20210111153008_www_test_ai": {
+        "fail": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318", 
+                "created": "2021-01-12 09:44:41", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 3, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {
+                    "3": {
+                        "label": "", 
+                        "note": "An error occurred executing script: switch_tab_fitness_pdf.py"
+                    }
+                }, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:lnk_industries", 
+                    "step:1sub_step:0  found:lnk_fitness_industry"
+                ], 
+                "note": "An error occurred executing script: switch_tab_fitness_pdf.py", 
+                "result": "fail", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tmpZ/a_X2370_Y128_W162_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "lxjxn+zPtpJ/+gi0n2KwTQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2370_Y128_W162_H70", 
+                                "human_readable": "a_2370_128_162_70_a_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
+                                "img_hash": "a96aa379ef492c3a28da66abc4fa0123", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/industries", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0191489s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Industries", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 81, 
+                                        "x": 1185, 
+                                        "xPercent": 62.19078083989501, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1185, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 81
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Industries"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Industries", 
+                                "text_hash": "03e026a764c954804d9c966937563314", 
+                                "transformed": true, 
+                                "width": 162, 
+                                "x": 2370, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_industries"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tests/result_paths/pdf test/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "lnk_industries"
+                        ], 
+                        "timing": 6.724533319473267
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tmpZ/a_X1938_Y1652_W442_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "SmL15nqu9ixUTt8bSRROLQ==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1938_Y1652_W442_H50", 
+                                "human_readable": "a_1938_1652_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc", 
+                                "img_hash": "5c54805a6f7611e91f23fbfbfb98adcc", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_CaseStudy_Fitness_v13.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Fitness Industry Case Study", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 221, 
+                                        "x": 969, 
+                                        "xPercent": 50.89156824146982, 
+                                        "y": 826, 
+                                        "yPercent": 20.21269273127753
+                                    }, 
+                                    "location": {
+                                        "x": 969, 
+                                        "y": 826
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 221
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Fitness Industry Case Study"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Fitness Industry Case Study", 
+                                "text_hash": "c8bd9150af9f32f17ad8caddb46d33dc", 
+                                "transformed": true, 
+                                "width": 442, 
+                                "x": 1938, 
+                                "y": 1652
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tests/result_paths/pdf test/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "timing": 2.90946102142334
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tests/result_paths/pdf test/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [], 
+                        "timing": 2.8110239505767822
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112094318/tests/result_paths/pdf test/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 3.744302988052368
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_industries"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "open_url_fitness.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "switch_tab_fitness_pdf.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "pdf"
+                ], 
+                "temp_id": "ad6700d4-54f7-11eb-9bd0-f01898f25f2e", 
+                "title": "pdf test", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,1273 @@
+{
+    "20210111153008_www_test_ai": {
+        "pass": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458", 
+                "created": "2021-01-12 09:17:26", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 10, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:lnk_industries", 
+                    "step:1sub_step:0  found:lnk_fitness_industry", 
+                    "step:4sub_step:0  found:lnk_gaming", 
+                    "step:9sub_step:0  found:btn_demo_ap"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X2370_Y128_W162_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "lxjxn+zPtpJ/+gi0n2KwTQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2370_Y128_W162_H70", 
+                                "human_readable": "a_2370_128_162_70_a_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
+                                "img_hash": "a96aa379ef492c3a28da66abc4fa0123", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/industries", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0191489s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Industries", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 81, 
+                                        "x": 1185, 
+                                        "xPercent": 62.19078083989501, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1185, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 81
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Industries"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Industries", 
+                                "text_hash": "03e026a764c954804d9c966937563314", 
+                                "transformed": true, 
+                                "width": 162, 
+                                "x": 2370, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_industries"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "lnk_industries"
+                        ], 
+                        "timing": 6.8324360847473145
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X1938_Y1652_W442_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "SmL15nqu9ixUTt8bSRROLQ==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1938_Y1652_W442_H50", 
+                                "human_readable": "a_1938_1652_442_50_a_ffffffffffffffffffff7793ffdb004018200800800800008000ffffffff0000_c8bd9150af9f32f17ad8caddb46d33dc", 
+                                "img_hash": "5c54805a6f7611e91f23fbfbfb98adcc", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_CaseStudy_Fitness_v13.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Fitness Industry Case Study", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 221, 
+                                        "x": 969, 
+                                        "xPercent": 50.89156824146982, 
+                                        "y": 826, 
+                                        "yPercent": 20.21269273127753
+                                    }, 
+                                    "location": {
+                                        "x": 969, 
+                                        "y": 826
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 221
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Fitness Industry Case Study"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Fitness Industry Case Study", 
+                                "text_hash": "c8bd9150af9f32f17ad8caddb46d33dc", 
+                                "transformed": true, 
+                                "width": 442, 
+                                "x": 1938, 
+                                "y": 1652
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "timing": 2.9298629760742188
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [], 
+                        "timing": 2.8075170516967773
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 4.187679052352905
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X856_Y1078_W448_H50.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "fi/P6XtAXUUAbIrlwMENWQ==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X856_Y1078_W448_H50", 
+                                "human_readable": "a_856_1078_448_50_a_ffffffffffffffffffff77db77db804000200000000808000040ffffffff0000_37bbf05bd5b84f34311e18cae842227f", 
+                                "img_hash": "84aa55aa8ba31f1b79452d78f3a1c40e", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/s/testai_CaseStudy_Gaming_v13.pdf", 
+                                            "target": "_blank"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(43, 38, 197)", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Gaming Industry Case Study", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 224, 
+                                        "x": 428, 
+                                        "xPercent": 22.440944881889763, 
+                                        "y": 539, 
+                                        "yPercent": 13.185266764561918
+                                    }, 
+                                    "location": {
+                                        "x": 428, 
+                                        "y": 539
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 224
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Gaming Industry Case Study"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Gaming Industry Case Study", 
+                                "text_hash": "37bbf05bd5b84f34311e18cae842227f", 
+                                "transformed": true, 
+                                "width": 448, 
+                                "x": 856, 
+                                "y": 1078
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_gaming"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            "lnk_gaming"
+                        ], 
+                        "timing": 3.919924020767212
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [], 
+                        "timing": 2.727001905441284
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": "swipe_up"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            ""
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [
+                            ""
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X1696_Y1232_W416_H134.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "rjNgO3F3i08eZo1xceIAaQ==\n", 
+                                "height": 134, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1696_Y1232_W416_H134", 
+                                "human_readable": "a_1696_1232_416_134_a_00000000000000000000000000003ff83ffc3ffc0d6800000000000000000000_67da42833904ee9acb7c30700659010d", 
+                                "img_hash": "d3c552d6f4ae5e66a9e0178173262190", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-block-button-element--large sqs-block-button-element", 
+                                            "data-initialized": "true", 
+                                            "href": "/demo"
+                                        }, 
+                                        "background-color": "rgb(43, 38, 197)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-block-button-element--large sqs-block-button-element", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "700", 
+                                        "fontSize": 17.6, 
+                                        "height": 67, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Request a Demo", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 848, 
+                                        "xPercent": 44.53248031496063, 
+                                        "y": 616, 
+                                        "yPercent": 15.066691140479687
+                                    }, 
+                                    "location": {
+                                        "x": 848, 
+                                        "y": 616
+                                    }, 
+                                    "size": {
+                                        "height": 67, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Request a Demo"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Request a Demo", 
+                                "text_hash": "67da42833904ee9acb7c30700659010d", 
+                                "transformed": true, 
+                                "width": 416, 
+                                "x": 1696, 
+                                "y": 1232
+                            }, 
+                            "gesture": "no_op", 
+                            "text": "no_op"
+                        }, 
+                        "cpu": 0, 
+                        "found_all_labels": true, 
+                        "jank": 0, 
+                        "matched_grep": true, 
+                        "mem": 0, 
+                        "net": 0, 
+                        "page_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "test_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "timing": 0
+                    }, 
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X1696_Y1232_W416_H134.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "rjNgO3F3i08eZo1xceIAaQ==\n", 
+                                "height": 134, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1696_Y1232_W416_H134", 
+                                "human_readable": "a_1696_1232_416_134_a_00000000000000000000000000003ff83ffc3ffc0d6800000000000000000000_67da42833904ee9acb7c30700659010d", 
+                                "img_hash": "d3c552d6f4ae5e66a9e0178173262190", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-block-button-element--large sqs-block-button-element", 
+                                            "data-initialized": "true", 
+                                            "href": "/demo"
+                                        }, 
+                                        "background-color": "rgb(43, 38, 197)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-block-button-element--large sqs-block-button-element", 
+                                        "domLevel": 14, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "700", 
+                                        "fontSize": 17.6, 
+                                        "height": 67, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Request a Demo", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 848, 
+                                        "xPercent": 44.53248031496063, 
+                                        "y": 616, 
+                                        "yPercent": 15.066691140479687
+                                    }, 
+                                    "location": {
+                                        "x": 848, 
+                                        "y": 616
+                                    }, 
+                                    "size": {
+                                        "height": 67, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Request a Demo"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Request a Demo", 
+                                "text_hash": "67da42833904ee9acb7c30700659010d", 
+                                "transformed": true, 
+                                "width": 416, 
+                                "x": 1696, 
+                                "y": 1232
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00009_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00009_screenshot.png", 
+                        "step_num": 9, 
+                        "test_labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "timing": 2.581717014312744
+                    }, 
+                    "00010": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00010_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00010_screenshot.png", 
+                        "step_num": 10, 
+                        "test_labels": [], 
+                        "timing": 4.805104970932007
+                    }, 
+                    "00011": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00011_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/Industries/iter_00000_step_00011_screenshot.png", 
+                        "step_num": 11, 
+                        "timing": 2.395566940307617
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_industries"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_fitness_industry"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_gaming"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": null, 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            ""
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "Script Step", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "script_name": "swipe_until_btn_demo_ap.py", 
+                        "tag": "labels: btn_demo_ap, text:  (count = None)", 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_demo_ap"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "Talk to us and we'll show you", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "industries"
+                ], 
+                "temp_id": "2b7762b5-54f5-11eb-b205-f01898f25f2e", 
+                "title": "Industries", 
+                "use_qlearning_matrix": true
+            }, 
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458", 
+                "created": "2021-01-12 09:18:23", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 2, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:lnk_industries", 
+                    "step:1sub_step:0  found:lnk_industries"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X2370_Y128_W162_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "lxjxn+zPtpJ/+gi0n2KwTQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2370_Y128_W162_H70", 
+                                "human_readable": "a_2370_128_162_70_a_ffffffffffffffffffff77ef33bf00000000000000002010ffffffffffffffff_03e026a764c954804d9c966937563314", 
+                                "img_hash": "a96aa379ef492c3a28da66abc4fa0123", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/industries", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0191489s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Industries", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 81, 
+                                        "x": 1185, 
+                                        "xPercent": 62.19078083989501, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1185, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 81
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Industries"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Industries", 
+                                "text_hash": "03e026a764c954804d9c966937563314", 
+                                "transformed": true, 
+                                "width": 162, 
+                                "x": 2370, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_industries"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/URL Script Test/iter_00001_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "lnk_industries"
+                        ], 
+                        "timing": 6.883806943893433
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tmpZ/a_X2370_Y128_W162_H70.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "dDIh6EYOiKy6t69TxYA9yQ==\n", 
+                                "height": 70, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X2370_Y128_W162_H70", 
+                                "human_readable": "a_2370_128_162_70_a_ffffffffffffffffffff7fff73bf00000000080000002410ffffffff00000000_35d8a87bf0176ccc43cbc21346620040", 
+                                "img_hash": "d07bd2f9687bf924a01722850721c9a3", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/industries", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0321429s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Current Page:\n        \n        Industries", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 81, 
+                                        "x": 1185, 
+                                        "xPercent": 62.19078083989501, 
+                                        "y": 64, 
+                                        "yPercent": 1.5621175966715615
+                                    }, 
+                                    "location": {
+                                        "x": 1185, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 81
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Current Page:\n        \n        Industries"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Current Page:\n        \n        Industries", 
+                                "text_hash": "35d8a87bf0176ccc43cbc21346620040", 
+                                "transformed": true, 
+                                "width": 162, 
+                                "x": 2370, 
+                                "y": 128
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_industries"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/URL Script Test/iter_00001_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "lnk_industries"
+                        ], 
+                        "timing": 2.8600850105285645
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "+pFND0lSMN22aWztG4ViVw==\n", 
+                                "height": 0, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W0_H0", 
+                                "index": -1, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 0, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "execute_script", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/URL Script Test/iter_00001_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [], 
+                        "timing": 2.9612090587615967
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "1H1ivsH6cSmmi96upzBE1A==\n", 
+                                "height": 1914, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W3840_H1914", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 3840, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00001_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210111153008_www_test_ai/test_runs/20210112091458/tests/result_paths/URL Script Test/iter_00001_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "timing": 3.695375919342041
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_industries"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_industries"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "script_name": "open_url_fitness.py", 
+                        "type": "execute_script", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "url"
+                ], 
+                "temp_id": "ad6700d4-54f7-11eb-9bd0-f01898f25f2e", 
+                "title": "URL Script Test", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}
